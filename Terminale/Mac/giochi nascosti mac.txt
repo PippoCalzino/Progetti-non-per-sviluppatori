@@ -1,0 +1,9 @@
+1) digita sul terminale il comando "emacs" senza le virgolette e premi invio
+2) digita ESC e poi "x" e infine il nome del gioco tutto in minuscolo; i giochi sono:
+		1. Snake
+		2. Pong
+		3. Doctor
+		4. Gomoku
+		5. Tetris
+
+
